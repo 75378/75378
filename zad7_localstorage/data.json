@@ -1,0 +1,17 @@
+{
+  "skills": [
+    "C#",
+    "T-SQL",
+    "Język angielski(B2)"
+  ],
+  "projects": [
+    {
+      "title": "Kalkulator",
+      "description": "Prosty kalkulator zrobiony w języku C# (Console App)."
+    },
+    {
+      "title": "Analizator Funkcje matymatycznych",
+      "description": "Interaktywny analizator funkcje matematycznych w języku C# (Windows Forms App)."
+    }
+  ]
+}
